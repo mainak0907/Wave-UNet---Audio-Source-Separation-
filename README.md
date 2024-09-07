@@ -1,4 +1,7 @@
 # Wave-UNet---Audio-Source-Separation-
+
+Trained Model - https://drive.google.com/file/d/1qJEu43ibFPX5OxDfdDvzMjiD244J9-QP/view?usp=sharing
+
 # Wave-U-Net: Detailed Overview
 
 **Wave-U-Net** is a deep learning model primarily used for **audio source separation** tasks, such as separating vocals from music or isolating different instruments in a song. Unlike traditional U-Net models, which operate in the time-frequency domain, **Wave-U-Net** works directly in the time domain using raw audio waveforms, making it more efficient for tasks like music separation or noise reduction.
